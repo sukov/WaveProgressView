@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WaveProgressView'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Water wave progress bar'
   s.homepage         = 'https://github.com/sukov/WaveProgressView'
   s.screenshots      = 'https://raw.githubusercontent.com/sukov/WaveProgressView/master/Screenshots/waveProgressView.gif'
