@@ -1,12 +1,12 @@
 # WaveProgressView
 
-[![CI Status](http://img.shields.io/travis/sukov/WaveProgressView?style=flat)](https://travis-ci.org/sukov/WaveProgressView)
+[![CI Status](http://img.shields.io/travis/sukov/WaveProgressView.svg?style=flat)](https://travis-ci.org/sukov/WaveProgressView)
 [![Version](https://img.shields.io/cocoapods/v/WaveProgressView.svg?style=flat)](http://cocoapods.org/pods/SHGWebViewController)
 [![License](https://img.shields.io/cocoapods/l/WaveProgressView.svg?style=flat)](http://cocoapods.org/pods/WaveProgressView)
 [![Language Swift](https://img.shields.io/badge/Language-Swift%204.0-orange.svg?style=flat)](https://swift.org)
 [![Platform](https://img.shields.io/cocoapods/p/WaveProgressView.svg?style=flat)](http://cocoapods.org/pods/WaveProgressView)
 
-![WaveProgressView](https://i.imgur.com/3fXIHPnl.png "WaveProgressView") ![WaveProgressView](https://i.imgur.com/7cgbzckl.png "WaveProgressView")
+![WaveProgressView](Screenshots/waveProgressView.gif)
 
 ## Installation
 
