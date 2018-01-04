@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.version          = '1.0.0'
   s.summary          = 'Water wave progress bar'
   s.homepage         = 'https://github.com/sukov/WaveProgressView'
-  s.screenshots      = 'https://raw.githubusercontent.com/sukov/WebViewController/master/Screenshots/waveProgressView.gif'
+  s.screenshots      = 'https://raw.githubusercontent.com/sukov/WaveProgressView/master/Screenshots/waveProgressView.gif'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sukov' => 'gorjan5@hotmail.com' }
   s.source           = { :git => 'https://github.com/sukov/WaveProgressView.git', :tag => s.version.to_s }
