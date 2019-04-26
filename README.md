@@ -18,7 +18,7 @@
 $ gem install cocoapods
 ```
 
-To integrate WebViewController into your Xcode project using CocoaPods, specify it in your `Podfile`:
+To integrate WaveProgressView into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
 source 'https://github.com/CocoaPods/Specs.git'
